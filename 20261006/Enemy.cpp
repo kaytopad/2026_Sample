@@ -10,5 +10,7 @@ Enemy::Enemy():Character(){}
 
 void Enemy::Action(Character&target)
 {
+	cout << "Enemy's turn" << endl;
+	Action(target);
 
 }

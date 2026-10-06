@@ -14,7 +14,7 @@ namespace Config
 	const int ACTION_ATTACK = 1;
 	const int ACTION_RECOVERY = 2;
 	//ìGÇÃçsìÆ
-	const int ENEMY_ACTION_COUNT = 2;
+	const int ENEMY_ACTION_COUNT = 1;
 	//ÉQÅ[ÉÄèIóπ
 	const int DEAD_HP = 0;
 
